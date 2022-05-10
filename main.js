@@ -1,3 +1,6 @@
+/*=========variabile globale=========================*/
+
+
 var square_class = document.getElementsByClassName("square");
 var white_checker_class = document.getElementsByClassName("white_checker");
 var black_checker_class = document.getElementsByClassName("black_checker");
@@ -31,7 +34,7 @@ var multiplier = 1 // 2 daca face saritura 1 in caz contrat
 
 var tableLimit,reverse_tableLimit ,  moveUpLeft,moveUpRight, moveDownLeft,moveDownRight , tableLimitLeft, tableLimitRight;
 
-/*================================*/cd
+/*================================*/
 	getDimension();
 	if(windowWidth > 640){
 		moveLength = 80;
@@ -535,6 +538,7 @@ if(windowWidth > 650){
 	}
 	}
 }
+
 
 
 
