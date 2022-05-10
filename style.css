@@ -12,10 +12,10 @@ height: 80px;
 }
 
 .white_square{
-background-color:#F0D2B4;
+background-color:red;
 }
 .black_square{
-background-color :#BA7A3A;
+background-color :black;
 }
 .clear_float{
 clear: both;
